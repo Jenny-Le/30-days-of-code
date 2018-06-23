@@ -28,6 +28,7 @@ function simpleArraySum(ar) {
     return total;
 }
 
+//forEach loop
 
 
 
